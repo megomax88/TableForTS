@@ -1,0 +1,16 @@
+.container{
+    width: 95%;
+    display: flex;
+    position: relative;
+}
+
+.listOfProducts{
+    width: 55%;
+    margin: 5%;
+}
+
+.searchPanel{
+    width: 45%;
+    height: 9em;
+    background-color: aquamarine;
+}
